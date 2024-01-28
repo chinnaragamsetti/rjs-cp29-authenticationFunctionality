@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.aboutroute {
+  font-size: 30px;
+  color: black;
+}
+.aboutcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

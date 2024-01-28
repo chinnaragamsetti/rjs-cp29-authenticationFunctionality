@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+.logoutbutton {
+  font-size: 20px;
+  color: gray;
+  display: flex;
+  justify-content: center;
+}
